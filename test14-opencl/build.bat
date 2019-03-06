@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\mingw-w64-win32thread\mingw64\bin\g++.exe" -m64 -Ofast -s test.cpp -I"C:\Marek\NVIDIA GPU Computing SDK\OpenCL\common\inc" -L"C:\Marek\NVIDIA GPU Computing SDK\OpenCL\common\lib\x64" "C:\Marek\OpneCLWrapper\OpenCLWrapper.o" -lOpenCL -o main.exe "C:\Marek\Fractals\lodepng.o"
